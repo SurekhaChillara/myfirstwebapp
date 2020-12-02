@@ -1,4 +1,4 @@
-# simplehtmlrepo
+# myfirstwebapp
 
 This is a simple repository with index.html file
 
